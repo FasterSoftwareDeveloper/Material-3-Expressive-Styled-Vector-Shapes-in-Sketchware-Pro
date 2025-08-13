@@ -51,8 +51,9 @@ Just place the vector files in your `res/drawable` folder or import the whole pr
 
 ## 📜 License
 
-This project is licensed under the **CC0 1.0 Universal** license.  
-You can copy, modify, and use it for free without asking permission.
+Original shapes by Daria Doroshchuk — Licensed under CC BY 4.0  
+https://www.figma.com/@dariadoroshchuk  
+https://creativecommons.org/licenses/by/4.0/
 
 ---
 ✨ Designed for developers who want **beautiful expressive vector shapes** in their Material 3 style Android apps.
