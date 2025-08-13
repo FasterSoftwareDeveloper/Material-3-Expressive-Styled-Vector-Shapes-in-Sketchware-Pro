@@ -49,18 +49,13 @@ Just place the vector files in your `res/drawable` folder or import the whole pr
 2. Or copy the shape vectors into your `res/drawable` folder.  
 3. Use them in ImageViews, Buttons, or as shape masks.  
 
-## 📜 License
+## License
 
-- **Original Shapes Credit:**  
-  Original shapes by Daria Doroshchuk — Licensed under CC BY 4.0  
-  https://www.figma.com/@dariadoroshchuk  
-  https://creativecommons.org/licenses/by/4.0/
-
-- **My Work (Modified & Project Code):**  
-  All shapes, modifications, and project code created by me are released under **CC0 1.0 Universal**. You are free to use, modify, and share them for any purpose, including commercial projects—no attribution required.
+- **Open & Free (No Restrictions):**  
+  This project is released as **CC0 1.0 Universal**. You are free to use, modify, and share it for any purpose, including commercial projects—no attribution required, no restrictions.
 
 - **Third-Party Libraries:**  
   This project may include third-party libraries. Each library is subject to its own license. Please review their licenses if you plan to use them.
-
+  
 ---
 ✨ Designed for developers who want **beautiful expressive vector shapes** in their Material 3 style Android apps.
